@@ -12,3 +12,4 @@ def isSubsequence(s, t):
     return i==len(s)
 
 print(isSubsequence("ace","idk"))
+
