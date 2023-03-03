@@ -1,7 +1,7 @@
 
 
 
-s = "dvdf"
+s = "abcabca"
 l = 0
 maxLen = 0
 hashSet = set()
