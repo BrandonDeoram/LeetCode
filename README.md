@@ -1,3 +1,3 @@
 # LeetCode Solution
 
-- Compiled
+- List of solutions of leetcode problems i've done so far
